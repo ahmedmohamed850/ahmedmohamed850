@@ -27,4 +27,4 @@ I am an engineering professional focused on **applied machine learning, deep lea
 
 > Research notebooks are provided for transparent experimentation, not as production-ready misinformation adjudication systems. Reproducibility instructions and benchmark provenance are being improved.
 
-<!-- To publish this as a GitHub profile README, create a PUBLIC repository named exactly `ahmedmohamed850`, then place this text in its root README.md. First check all links and verify every technical claim. -->
+
